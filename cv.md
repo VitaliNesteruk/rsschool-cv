@@ -1,6 +1,8 @@
 # _Vitali Nesteruk_ 
 <img src = "images\F1.jpg" width = 200px>
-## Contacns:\
+
+## Contacts
+
 - Phone: +375 (33)6431745\
 - Telegram: +375 (33)6431745\
 - E-mail: agent708@gmail.com\
@@ -8,7 +10,7 @@
 - LinkedIn: in/vitali-nesteruk\
 - Discord: Vitali Nesteruk(@VitaliNesteruk)
 
-## About myself:
+## About myself
 _I am beginner software engineer and front-end developer with an eager\
     to work hardly and creatively. I improve my skills and expand them by\
     learning new technologies. My free time is dedicated to learning English.\
