@@ -2,12 +2,11 @@
 <img src = "images\F1.jpg" width = 200px>
 
 ## Contacts
-
-- Phone: +375 (33)6431745\
-- Telegram: +375 (33)6431745\
-- E-mail: agent708@gmail.com\
-- GitHub: github.com/VitaliNesteruk\
-- LinkedIn: in/vitali-nesteruk\
+- Phone: +375 (33)6431745
+- Telegram: +375 (33)6431745
+- E-mail: agent708@gmail.com
+- GitHub: github.com/VitaliNesteruk
+- LinkedIn: in/vitali-nesteruk
 - Discord: Vitali Nesteruk(@VitaliNesteruk)
 
 ## About myself
