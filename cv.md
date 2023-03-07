@@ -7,7 +7,10 @@
     - GitHub: github.com/VitaliNesteruk
     - LinkedIn: in/vitali-nesteruk
 ## About myself:
-<p>I am beginner software engineer and front-end developer with an eager to work hardly and creatively. I improve my skills and expand them by learning new technologies. My free time is dedicated to learning English. Now I am looking for an opportunity to develope my skills and learn JavaScript</p>
+* <p>I am beginner software engineer and front-end developer with an eager\
+    to work hardly and creatively. I improve my skills and expand them by\
+    learning new technologies. My free time is dedicated to learning English.\ 
+    Now I am looking for an opportunity to develope my skills and learn JavaScript</p> *
 
 ## Skills
     * Java
@@ -16,7 +19,7 @@
     * Maven
     * MySQL/H2
     * Docker
-    * Idea/Eclipce/NetBeans
+    * Idea / Eclipce / NetBeans
     * GitHub
     * Figma
     * HTML
@@ -24,10 +27,38 @@
     * JS
     * English (B1)
 
-## My app example on Java
-** This project  represents itself inventory control of products at store.**
-It's link on my Store project 
+## Work Experience
+“POLESIEZHILSTROY” | 2012-2022
+---------------------------------
+*Structural engineer, deputy team leader*
+My responsibility:
+    1. Design of reinforce concrete, stone, steel, wooden structures
+    2. Development of drawings for monolithic and prefabricated reinforced concrete strictures
+    3. Calculation of building structures and whole buildings
+    4. Creation 3D-model of building
 
+“Epam” | 2012-2022
+-----------------------------
+*Student. Create "Store" project on Java technologies.*
+Store project represents itself inventory control of products at store.\
+It's link on my Store project: <https://github.com/VitaliNesteruk/Vitali-Nestsiaruk-Store.git> 
+
+## Education
+2022-2023
+**"RSSchool"**
+*Stage 0*
+
+2021-2022
+**"EPAM"**
+*Java Development*
+
+2020-2021
+**Computer Academy "IT-Step"**
+*Java Development*
+
+2007-2012
+**"BREST STATE TECHNICAL UNIVERCITY"**
+*Civil engineering. Master of Engineering*
 ## Language
-    English - (B1)
-    _2009 - 2011 Linguistic course
+    **English - (A2++)**
+    *2009 - 2011 **Linguistic course***
