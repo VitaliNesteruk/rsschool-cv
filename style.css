@@ -23,7 +23,6 @@ header .header-wrapper .photo {
     justify-content: space-between;
     align-items:stretch;
     flex-wrap: wrap;
-    
 }
 
 header .photo .photo-item1 {
@@ -149,6 +148,7 @@ main .expierence .profession{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 25px;
     font-style: oblique;
+    padding-bottom: 20px;
 }
 
 footer .footer-content {
