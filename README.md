@@ -1,2 +1,3 @@
-## Link to CV, created in Markdown
-<https://github.com/VitaliNesteruk/rsschool-cv/cv>
+## Link to CV, created in HTML, CSS
+<https://vitalinesteruk.github.io/rsschool-cv/>
+
