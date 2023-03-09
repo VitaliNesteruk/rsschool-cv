@@ -144,6 +144,10 @@ main .expierence .work-place{
     font-size: 25px;
 }
 
+main .expierence .courses .title {
+    padding-top: 20px;
+}
+
 main .expierence .profession{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 25px;
@@ -159,4 +163,8 @@ footer .footer-content {
     font-size: 20px;
     font-style: oblique;
     padding: 20px;
+}
+
+footer .footer-content .name span{
+    color: green;
 }
