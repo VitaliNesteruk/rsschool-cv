@@ -151,6 +151,10 @@ main .expierence .profession{
     padding-bottom: 20px;
 }
 
+main .expierence .courses .title{
+    padding-top: 20px;
+}
+
 footer .footer-content {
     background-color: #bbbbbb;
     display: flex;
@@ -159,4 +163,8 @@ footer .footer-content {
     font-size: 20px;
     font-style: oblique;
     padding: 20px;
+}
+
+footer .footer-content .name span{
+    color: green;
 }
